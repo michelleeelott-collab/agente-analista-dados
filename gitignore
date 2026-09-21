@@ -1,0 +1,13 @@
+# Ambientes
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Segredos
+.env
+*.key
+
+# Sistema
+.DS_Store
