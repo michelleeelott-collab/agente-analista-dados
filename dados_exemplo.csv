@@ -1,0 +1,601 @@
+data,regiao,estado,produto,categoria,quantidade,valor,meta_atingida
+2025-08-13,Nordeste,CE,SSD,Hardware,1,436.61,Não
+2025-08-17,Sudeste,MG,Mouse,Acessórios,7,526.92,Sim
+2025-10-05,Centro-Oeste,GO,Placa de Vídeo,Hardware,7,19093.82,Sim
+2025-09-17,Nordeste,BA,Mesa,Móveis,4,3808.86,Não
+2025-01-25,Sudeste,SP,Cadeira,Móveis,2,2339.2,Não
+2025-01-04,Norte,PA,Placa de Vídeo,Hardware,1,2687.51,Sim
+2025-08-09,Nordeste,PE,Mouse,Acessórios,1,82.73,Não
+2025-07-19,Nordeste,CE,Mesa,Móveis,7,6721.23,Sim
+2025-04-17,Sudeste,SP,Headset,Acessórios,2,370.37,Sim
+2025-06-19,Sul,RS,Placa de Vídeo,Hardware,14,34436.48,Sim
+2025-10-16,Sudeste,MG,Cadeira,Móveis,4,4614.11,Não
+2025-10-19,Norte,PA,SSD,Hardware,10,4222.34,Sim
+2025-08-17,Sul,SC,Mouse,Acessórios,10,758.77,Sim
+2025-05-02,Centro-Oeste,GO,SSD,Hardware,7,2993.21,Sim
+2025-04-21,Sul,RS,Notebook,Eletrônicos,13,38366.01,Não
+2025-07-13,Sudeste,RJ,Monitor,Eletrônicos,2,2030.01,Sim
+2025-05-02,Sul,PR,Mouse,Acessórios,4,307.95,Sim
+2025-08-12,Sudeste,SP,Mesa,Móveis,4,3297.73,Não
+2025-09-12,Centro-Oeste,GO,SSD,Hardware,2,787.35,Sim
+2025-01-03,Sul,SC,Teclado,Acessórios,5,575.06,Sim
+2025-01-27,Nordeste,PE,Cadeira,Móveis,5,5541.99,Sim
+2025-03-07,Sudeste,MG,Mouse,Acessórios,11,814.22,Não
+2025-11-09,Norte,PA,Placa de Vídeo,Hardware,5,12541.06,Sim
+2025-09-12,Norte,AM,Cadeira,Móveis,13,14215.52,Sim
+2025-03-23,Nordeste,CE,Teclado,Acessórios,11,1294.36,Sim
+2025-11-21,Sudeste,SP,Placa de Vídeo,Hardware,13,33178.99,Não
+2025-06-21,Sul,RS,Notebook,Eletrônicos,2,6235.14,Não
+2025-07-07,Sudeste,SP,Placa de Vídeo,Hardware,14,35397.83,Sim
+2025-12-23,Sudeste,SP,Monitor,Eletrônicos,9,7988.75,Sim
+2025-01-23,Nordeste,BA,Headset,Acessórios,14,2457.93,Não
+2025-03-13,Nordeste,PE,SSD,Hardware,5,1999.91,Sim
+2025-08-15,Norte,PA,Mesa,Móveis,14,12971.66,Sim
+2025-03-02,Sudeste,RJ,Placa de Vídeo,Hardware,9,25237.59,Sim
+2025-09-21,Sudeste,MG,Mesa,Móveis,2,1902.04,Sim
+2025-03-26,Sul,RS,Cadeira,Móveis,6,6904.66,Sim
+2025-02-13,Sudeste,SP,Teclado,Acessórios,2,241.22,Sim
+2025-03-15,Sudeste,SP,Notebook,Eletrônicos,14,43470.92,Sim
+2025-06-14,Sul,RS,Monitor,Eletrônicos,5,4958.19,Sim
+2025-03-03,Sudeste,RJ,Headset,Acessórios,4,792.19,Não
+2025-02-17,Nordeste,BA,Notebook,Eletrônicos,8,27010.14,Sim
+2025-11-20,Sudeste,MG,Mouse,Acessórios,6,510.37,Sim
+2025-05-26,Centro-Oeste,GO,Mesa,Móveis,2,1761.3,Não
+2025-05-26,Nordeste,BA,Placa de Vídeo,Hardware,12,32532.24,Sim
+2025-01-14,Sudeste,RJ,Mouse,Acessórios,12,1007.06,Não
+2025-05-26,Centro-Oeste,GO,SSD,Hardware,11,4478.41,Sim
+2025-04-15,Nordeste,CE,Placa de Vídeo,Hardware,9,25007.08,Não
+2025-08-18,Sudeste,MG,SSD,Hardware,6,2356.44,Sim
+2025-03-17,Sudeste,RJ,Mouse,Acessórios,8,690.61,Sim
+2025-11-27,Nordeste,BA,Headset,Acessórios,8,1585.69,Sim
+2025-12-20,Sudeste,SP,Placa de Vídeo,Hardware,3,7292.4,Sim
+2025-02-04,Sudeste,SP,Headset,Acessórios,2,389.5,Sim
+2025-02-02,Sudeste,SP,Teclado,Acessórios,4,444.22,Não
+2025-02-12,Nordeste,CE,Notebook,Eletrônicos,7,23368.35,Não
+2025-08-14,Nordeste,BA,SSD,Hardware,3,1320.32,Sim
+2025-02-19,Nordeste,BA,Cadeira,Móveis,2,2337.69,Não
+2025-11-14,Nordeste,CE,Notebook,Eletrônicos,12,40592.55,Não
+2025-10-14,Sul,RS,Monitor,Eletrônicos,6,5333.27,Não
+2025-10-25,Sul,PR,Mouse,Acessórios,9,694.19,Não
+2025-07-10,Sudeste,SP,Mouse,Acessórios,8,631.21,Sim
+2025-12-14,Sudeste,SP,SSD,Hardware,11,4281.78,Sim
+2025-01-16,Nordeste,BA,Headset,Acessórios,11,2072.68,Sim
+2025-06-13,Sul,RS,Placa de Vídeo,Hardware,5,12511.64,Não
+2025-05-27,Sul,PR,Mouse,Acessórios,12,943.52,Sim
+2025-12-26,Nordeste,PE,SSD,Hardware,6,2489.8,Sim
+2025-08-14,Sul,SC,Headset,Acessórios,12,2418.41,Sim
+2025-10-13,Sul,PR,Notebook,Eletrônicos,6,18494.49,Não
+2025-03-16,Sul,PR,Notebook,Eletrônicos,2,6803.19,Sim
+2025-12-05,Sudeste,RJ,Teclado,Acessórios,11,1304.37,Sim
+2025-07-12,Sudeste,SP,Placa de Vídeo,Hardware,1,2528.37,Não
+2025-07-06,Sudeste,MG,Notebook,Eletrônicos,11,35214.15,Não
+2025-12-04,Sudeste,SP,Teclado,Acessórios,1,118.42,Sim
+2025-05-03,Sudeste,MG,Notebook,Eletrônicos,3,9227.32,Não
+2025-06-16,Centro-Oeste,GO,Placa de Vídeo,Hardware,9,23410.03,Não
+2025-08-01,Sudeste,RJ,Mesa,Móveis,14,11765.83,Sim
+2025-02-18,Sudeste,SP,Mesa,Móveis,6,5213.49,Não
+2025-05-12,Sudeste,RJ,Mesa,Móveis,2,1798.74,Sim
+2025-03-10,Sudeste,RJ,Cadeira,Móveis,4,4536.27,Sim
+2025-02-21,Nordeste,BA,Mesa,Móveis,13,12169.63,Sim
+2025-11-15,Sul,PR,Notebook,Eletrônicos,11,33829.86,Sim
+2025-08-20,Nordeste,CE,SSD,Hardware,2,903.14,Sim
+2025-05-20,Nordeste,BA,Mesa,Móveis,6,5583.27,Sim
+2025-06-01,Sudeste,MG,Mesa,Móveis,4,3826.34,Sim
+2025-06-06,Nordeste,CE,Teclado,Acessórios,3,379.48,Sim
+2025-08-16,Sudeste,SP,SSD,Hardware,12,4751.39,Sim
+2025-12-27,Sudeste,SP,Teclado,Acessórios,9,1084.57,Sim
+2025-12-05,Sudeste,SP,Notebook,Eletrônicos,3,9093.09,Não
+2025-06-03,Nordeste,PE,Placa de Vídeo,Hardware,10,27323.83,Não
+2025-05-26,Sul,RS,Headset,Acessórios,6,1155.35,Sim
+2025-06-27,Sudeste,SP,Notebook,Eletrônicos,1,3078.89,Não
+2025-08-05,Sul,RS,Cadeira,Móveis,7,8603.32,Sim
+2025-06-11,Sudeste,SP,Headset,Acessórios,3,534.9,Não
+2025-09-17,Nordeste,BA,SSD,Hardware,4,1697.17,Sim
+2025-08-06,Sul,RS,Teclado,Acessórios,13,1615.17,Não
+2025-05-09,Sudeste,MG,Notebook,Eletrônicos,10,29741.3,Não
+2025-05-11,Sudeste,RJ,Placa de Vídeo,Hardware,2,5281.42,Não
+2025-05-18,Sul,SC,Mouse,Acessórios,12,1008.52,Sim
+2025-02-09,Sudeste,MG,Headset,Acessórios,9,1591.68,Sim
+2025-03-12,Sudeste,SP,Mesa,Móveis,13,11592.66,Sim
+2025-09-08,Sudeste,SP,Mouse,Acessórios,11,846.0,Sim
+2025-05-21,Norte,PA,Notebook,Eletrônicos,5,16417.09,Não
+2025-03-05,Norte,PA,Mesa,Móveis,8,6685.6,Não
+2025-08-07,Nordeste,BA,Teclado,Acessórios,8,1027.13,Sim
+2025-10-07,Sudeste,RJ,Mesa,Móveis,11,10408.3,Sim
+2025-04-25,Norte,PA,Placa de Vídeo,Hardware,4,9877.46,Sim
+2025-10-26,Nordeste,CE,Cadeira,Móveis,5,5587.4,Sim
+2025-12-14,Nordeste,BA,Mesa,Móveis,4,3609.92,Sim
+2025-08-05,Sul,RS,Headset,Acessórios,5,983.15,Sim
+2025-09-21,Sudeste,RJ,Headset,Acessórios,3,564.77,Não
+2025-01-14,Sudeste,SP,Teclado,Acessórios,1,113.4,Sim
+2025-12-23,Norte,PA,SSD,Hardware,14,5507.59,Sim
+2025-06-10,Sul,RS,Mouse,Acessórios,2,172.79,Sim
+2025-12-27,Sudeste,SP,Teclado,Acessórios,13,1548.86,Não
+2025-08-22,Sudeste,RJ,SSD,Hardware,1,445.03,Não
+2025-01-07,Sul,PR,SSD,Hardware,11,4606.97,Sim
+2025-01-20,Sudeste,SP,Placa de Vídeo,Hardware,5,13878.5,Sim
+2025-09-08,Centro-Oeste,GO,Headset,Acessórios,8,1419.74,Sim
+2025-08-10,Nordeste,PE,Mesa,Móveis,4,3340.15,Sim
+2025-01-07,Nordeste,BA,Cadeira,Móveis,7,8603.37,Sim
+2025-10-19,Sudeste,MG,Mouse,Acessórios,7,600.1,Sim
+2025-11-08,Sul,SC,Teclado,Acessórios,8,931.54,Não
+2025-07-18,Sul,PR,Monitor,Eletrônicos,6,5567.91,Sim
+2025-06-16,Sul,SC,Headset,Acessórios,8,1508.44,Sim
+2025-01-21,Sudeste,SP,Mouse,Acessórios,12,947.12,Sim
+2025-10-27,Sudeste,MG,SSD,Hardware,7,2794.2,Não
+2025-05-01,Sudeste,SP,SSD,Hardware,6,2680.62,Não
+2025-11-27,Sul,RS,Monitor,Eletrônicos,2,1825.01,Não
+2025-05-03,Sudeste,RJ,Mesa,Móveis,6,5515.38,Sim
+2025-08-15,Sudeste,SP,Notebook,Eletrônicos,2,5956.77,Sim
+2025-04-10,Sudeste,SP,Mesa,Móveis,3,2472.95,Não
+2025-03-18,Sul,PR,Teclado,Acessórios,14,1721.32,Não
+2025-10-20,Sudeste,SP,Mouse,Acessórios,2,155.88,Sim
+2025-07-24,Norte,PA,Mesa,Móveis,7,6384.96,Sim
+2025-07-11,Sul,PR,Teclado,Acessórios,12,1346.46,Sim
+2025-12-26,Sudeste,MG,SSD,Hardware,14,6303.22,Não
+2025-12-09,Sul,SC,Mouse,Acessórios,3,249.54,Não
+2025-11-06,Sudeste,SP,Placa de Vídeo,Hardware,3,8269.58,Sim
+2025-03-11,Norte,PA,Cadeira,Móveis,6,6498.66,Sim
+2025-08-15,Sul,RS,Headset,Acessórios,8,1476.26,Sim
+2025-11-19,Nordeste,CE,Mesa,Móveis,14,12197.53,Sim
+2025-05-23,Sudeste,SP,Teclado,Acessórios,3,362.14,Sim
+2025-02-07,Sul,RS,Mouse,Acessórios,3,232.2,Não
+2025-10-09,Sul,RS,Monitor,Eletrônicos,4,3532.86,Sim
+2025-07-26,Norte,PA,Monitor,Eletrônicos,13,12090.9,Sim
+2025-08-12,Sul,PR,Cadeira,Móveis,1,1104.84,Sim
+2025-12-07,Sul,RS,Monitor,Eletrônicos,6,5595.96,Sim
+2025-08-27,Sudeste,RJ,Placa de Vídeo,Hardware,2,4947.87,Sim
+2025-06-13,Sudeste,RJ,SSD,Hardware,3,1212.0,Sim
+2025-05-27,Sul,PR,Mesa,Móveis,13,11805.01,Sim
+2025-06-25,Sudeste,MG,Mesa,Móveis,1,874.07,Não
+2025-02-25,Sudeste,SP,Cadeira,Móveis,5,5607.75,Sim
+2025-10-16,Centro-Oeste,GO,Notebook,Eletrônicos,13,41825.68,Sim
+2025-11-22,Norte,AM,Teclado,Acessórios,9,1126.98,Sim
+2025-04-26,Sudeste,SP,Mouse,Acessórios,2,156.9,Não
+2025-05-08,Sul,PR,Placa de Vídeo,Hardware,7,18454.86,Sim
+2025-11-02,Sudeste,SP,Monitor,Eletrônicos,14,14292.08,Não
+2025-01-09,Nordeste,BA,Mouse,Acessórios,6,481.69,Não
+2025-07-18,Sudeste,RJ,Teclado,Acessórios,8,1022.94,Sim
+2025-06-15,Nordeste,BA,Monitor,Eletrônicos,8,7957.11,Sim
+2025-09-03,Nordeste,PE,Notebook,Eletrônicos,10,29740.64,Não
+2025-03-16,Nordeste,PE,Teclado,Acessórios,3,355.92,Sim
+2025-09-05,Sudeste,SP,Notebook,Eletrônicos,12,39618.47,Sim
+2025-05-14,Norte,PA,Notebook,Eletrônicos,14,48288.75,Sim
+2025-08-16,Sudeste,RJ,Teclado,Acessórios,2,238.4,Sim
+2025-01-18,Sudeste,SP,Monitor,Eletrônicos,12,10657.24,Sim
+2025-06-12,Sul,PR,Mouse,Acessórios,12,969.52,Sim
+2025-07-12,Sudeste,MG,Notebook,Eletrônicos,11,33096.81,Sim
+2025-03-19,Centro-Oeste,GO,Headset,Acessórios,6,1185.88,Sim
+2025-02-21,Nordeste,CE,Mouse,Acessórios,7,560.69,Sim
+2025-03-22,Sudeste,RJ,Placa de Vídeo,Hardware,12,32315.37,Não
+2025-05-10,Norte,PA,Cadeira,Móveis,3,3653.89,Sim
+2025-02-12,Sudeste,RJ,SSD,Hardware,12,5143.98,Sim
+2025-12-09,Sul,RS,Teclado,Acessórios,13,1588.06,Sim
+2025-06-15,Sudeste,RJ,Mouse,Acessórios,10,832.58,Sim
+2025-10-04,Norte,PA,Teclado,Acessórios,5,632.88,Sim
+2025-12-12,Sudeste,SP,SSD,Hardware,8,3558.4,Sim
+2025-02-06,Sudeste,SP,Placa de Vídeo,Hardware,1,2407.15,Sim
+2025-09-15,Sudeste,MG,Placa de Vídeo,Hardware,14,36727.25,Sim
+2025-11-23,Norte,PA,Mesa,Móveis,5,4247.98,Sim
+2025-08-27,Norte,AM,Mouse,Acessórios,1,84.61,Sim
+2025-06-13,Nordeste,PE,Mouse,Acessórios,12,982.79,Sim
+2025-06-02,Norte,AM,Placa de Vídeo,Hardware,10,25668.13,Sim
+2025-01-07,Norte,AM,Headset,Acessórios,9,1624.67,Sim
+2025-07-03,Sul,RS,Teclado,Acessórios,1,116.91,Sim
+2025-12-21,Sudeste,RJ,Placa de Vídeo,Hardware,11,29532.49,Sim
+2025-12-27,Nordeste,CE,Teclado,Acessórios,9,1028.91,Sim
+2025-01-15,Nordeste,BA,Headset,Acessórios,12,2131.74,Sim
+2025-09-05,Sudeste,MG,Cadeira,Móveis,12,14656.77,Sim
+2025-05-01,Sudeste,SP,Headset,Acessórios,3,594.1,Não
+2025-11-27,Nordeste,PE,Placa de Vídeo,Hardware,3,7425.34,Sim
+2025-01-09,Sudeste,RJ,Placa de Vídeo,Hardware,13,32676.82,Sim
+2025-12-04,Norte,PA,Headset,Acessórios,8,1634.81,Sim
+2025-11-05,Sudeste,RJ,Mouse,Acessórios,7,578.65,Não
+2025-02-07,Sudeste,SP,Placa de Vídeo,Hardware,5,13229.89,Sim
+2025-01-18,Centro-Oeste,GO,Mesa,Móveis,9,7763.46,Sim
+2025-11-25,Sudeste,SP,Monitor,Eletrônicos,11,10114.14,Não
+2025-03-08,Sudeste,SP,Cadeira,Móveis,1,1065.27,Sim
+2025-07-19,Sul,SC,Cadeira,Móveis,8,9536.33,Não
+2025-11-02,Norte,AM,Cadeira,Móveis,14,14923.22,Sim
+2025-08-01,Sudeste,SP,Notebook,Eletrônicos,4,11785.95,Sim
+2025-06-02,Sudeste,RJ,Headset,Acessórios,4,787.91,Sim
+2025-06-25,Nordeste,CE,SSD,Hardware,13,5852.14,Sim
+2025-01-16,Norte,PA,Headset,Acessórios,1,197.8,Não
+2025-12-22,Sul,RS,Headset,Acessórios,6,1134.83,Sim
+2025-05-01,Sudeste,SP,Headset,Acessórios,7,1327.03,Não
+2025-03-01,Sudeste,SP,Monitor,Eletrônicos,12,11283.51,Sim
+2025-04-23,Sudeste,RJ,Monitor,Eletrônicos,2,1846.69,Sim
+2025-12-03,Sudeste,SP,Teclado,Acessórios,7,842.92,Não
+2025-02-05,Nordeste,BA,SSD,Hardware,3,1246.12,Sim
+2025-11-15,Sudeste,SP,Notebook,Eletrônicos,12,39003.14,Não
+2025-09-17,Sul,RS,Headset,Acessórios,9,1818.93,Sim
+2025-11-07,Nordeste,BA,Notebook,Eletrônicos,7,24174.11,Não
+2025-12-13,Sul,PR,Cadeira,Móveis,6,6434.93,Sim
+2025-11-19,Sudeste,SP,Headset,Acessórios,3,559.48,Sim
+2025-12-12,Nordeste,CE,SSD,Hardware,13,5181.06,Sim
+2025-02-11,Nordeste,BA,Cadeira,Móveis,10,11227.9,Sim
+2025-10-02,Nordeste,PE,SSD,Hardware,5,2028.59,Sim
+2025-07-13,Sudeste,SP,Cadeira,Móveis,6,6540.69,Sim
+2025-07-22,Sudeste,SP,Teclado,Acessórios,11,1375.77,Não
+2025-11-17,Norte,PA,SSD,Hardware,11,4617.26,Sim
+2025-12-25,Sudeste,MG,Mouse,Acessórios,7,597.56,Não
+2025-09-04,Sudeste,RJ,Placa de Vídeo,Hardware,5,12027.79,Não
+2025-07-01,Sul,RS,Placa de Vídeo,Hardware,10,24198.63,Sim
+2025-06-15,Nordeste,BA,Cadeira,Móveis,10,11322.02,Sim
+2025-05-05,Norte,PA,Mesa,Móveis,9,7472.08,Sim
+2025-05-17,Sudeste,RJ,Headset,Acessórios,2,365.57,Sim
+2025-06-25,Norte,PA,SSD,Hardware,7,3168.63,Sim
+2025-02-10,Sudeste,SP,Mesa,Móveis,9,7637.0,Não
+2025-02-15,Sul,PR,Placa de Vídeo,Hardware,14,34641.84,Sim
+2025-10-19,Sul,SC,Headset,Acessórios,8,1537.91,Sim
+2025-06-05,Sudeste,SP,SSD,Hardware,5,2099.33,Não
+2025-12-25,Sudeste,SP,Mouse,Acessórios,8,648.24,Sim
+2025-08-06,Sudeste,MG,Monitor,Eletrônicos,3,2793.79,Sim
+2025-01-22,Norte,PA,Monitor,Eletrônicos,2,1999.34,Sim
+2025-03-18,Sul,SC,Cadeira,Móveis,10,10834.99,Não
+2025-03-04,Norte,PA,Headset,Acessórios,14,2629.52,Sim
+2025-12-20,Nordeste,CE,Notebook,Eletrônicos,12,39565.9,Sim
+2025-03-06,Sul,RS,Teclado,Acessórios,9,1143.63,Sim
+2025-07-17,Nordeste,CE,Cadeira,Móveis,1,1126.0,Sim
+2025-12-26,Sudeste,SP,Headset,Acessórios,14,2688.83,Sim
+2025-12-26,Sudeste,SP,Placa de Vídeo,Hardware,7,16945.34,Sim
+2025-04-24,Centro-Oeste,GO,SSD,Hardware,5,1989.23,Não
+2025-01-14,Nordeste,CE,Mouse,Acessórios,13,968.3,Sim
+2025-03-16,Sudeste,RJ,Placa de Vídeo,Hardware,11,29642.78,Não
+2025-01-09,Sul,PR,Teclado,Acessórios,11,1275.24,Sim
+2025-03-25,Sul,SC,Monitor,Eletrônicos,4,3936.04,Sim
+2025-08-13,Norte,AM,Notebook,Eletrônicos,14,41691.94,Sim
+2025-11-21,Sul,SC,Placa de Vídeo,Hardware,7,19255.74,Sim
+2025-07-10,Sudeste,MG,Placa de Vídeo,Hardware,8,21916.64,Não
+2025-08-20,Sudeste,MG,Mesa,Móveis,11,9146.1,Não
+2025-03-07,Sudeste,MG,Notebook,Eletrônicos,10,29561.63,Não
+2025-10-20,Nordeste,BA,Headset,Acessórios,3,529.53,Sim
+2025-08-02,Norte,AM,Notebook,Eletrônicos,5,16905.29,Não
+2025-11-03,Sul,RS,Notebook,Eletrônicos,6,18385.01,Sim
+2025-12-10,Sudeste,RJ,Headset,Acessórios,14,2680.55,Não
+2025-05-14,Sudeste,RJ,Cadeira,Móveis,11,12500.72,Sim
+2025-02-20,Nordeste,PE,Notebook,Eletrônicos,6,20107.85,Sim
+2025-04-10,Nordeste,CE,Placa de Vídeo,Hardware,11,28549.2,Sim
+2025-06-01,Sudeste,SP,Mouse,Acessórios,11,880.09,Sim
+2025-12-09,Sudeste,SP,Headset,Acessórios,6,1229.21,Sim
+2025-05-12,Sul,SC,Mouse,Acessórios,6,453.13,Não
+2025-10-15,Sudeste,SP,SSD,Hardware,13,5748.9,Não
+2025-07-18,Centro-Oeste,GO,Headset,Acessórios,8,1410.99,Não
+2025-03-07,Sudeste,RJ,Notebook,Eletrônicos,3,9565.67,Sim
+2025-05-17,Sudeste,SP,Notebook,Eletrônicos,11,37375.84,Sim
+2025-09-18,Norte,PA,SSD,Hardware,9,3879.92,Sim
+2025-09-21,Sudeste,SP,Monitor,Eletrônicos,8,7825.22,Sim
+2025-06-15,Sudeste,RJ,Cadeira,Móveis,11,12170.95,Sim
+2025-04-22,Sudeste,SP,Teclado,Acessórios,13,1539.68,Sim
+2025-09-06,Sudeste,SP,Mesa,Móveis,5,4355.01,Sim
+2025-03-20,Sudeste,SP,Notebook,Eletrônicos,6,19265.87,Sim
+2025-12-02,Sudeste,SP,Placa de Vídeo,Hardware,3,7752.86,Sim
+2025-03-03,Sudeste,SP,Mesa,Móveis,10,8653.5,Sim
+2025-02-24,Sudeste,SP,Mouse,Acessórios,6,465.06,Sim
+2025-07-13,Sul,SC,Monitor,Eletrônicos,5,4560.65,Não
+2025-07-17,Nordeste,BA,Placa de Vídeo,Hardware,10,25438.6,Sim
+2025-07-17,Sudeste,MG,Headset,Acessórios,6,1076.15,Não
+2025-06-19,Sudeste,RJ,Mouse,Acessórios,7,593.34,Sim
+2025-12-07,Sul,RS,Teclado,Acessórios,7,853.72,Não
+2025-07-05,Norte,AM,Headset,Acessórios,4,715.47,Não
+2025-07-02,Centro-Oeste,GO,Teclado,Acessórios,2,247.44,Não
+2025-06-24,Sudeste,SP,Monitor,Eletrônicos,12,12034.14,Sim
+2025-01-07,Sudeste,SP,Notebook,Eletrônicos,2,6131.24,Sim
+2025-08-16,Sudeste,RJ,Headset,Acessórios,5,896.89,Sim
+2025-04-13,Sudeste,RJ,Monitor,Eletrônicos,10,8753.1,Sim
+2025-08-05,Sul,PR,Teclado,Acessórios,2,222.61,Sim
+2025-01-12,Sudeste,MG,SSD,Hardware,10,4376.23,Sim
+2025-12-03,Sudeste,SP,Monitor,Eletrônicos,11,11264.58,Sim
+2025-06-05,Sudeste,MG,Notebook,Eletrônicos,10,29669.79,Sim
+2025-11-04,Sul,PR,Notebook,Eletrônicos,5,16635.06,Sim
+2025-07-23,Sudeste,SP,Mouse,Acessórios,1,74.52,Sim
+2025-01-16,Centro-Oeste,GO,Headset,Acessórios,13,2506.41,Não
+2025-10-25,Sudeste,SP,Mouse,Acessórios,5,416.39,Não
+2025-09-12,Norte,PA,Notebook,Eletrônicos,12,37534.95,Sim
+2025-10-06,Sudeste,SP,Headset,Acessórios,3,525.4,Sim
+2025-06-17,Centro-Oeste,GO,Teclado,Acessórios,3,365.48,Sim
+2025-08-26,Norte,PA,Teclado,Acessórios,11,1423.75,Sim
+2025-11-15,Norte,PA,Mouse,Acessórios,14,1076.57,Sim
+2025-08-01,Nordeste,CE,SSD,Hardware,13,5188.74,Sim
+2025-05-09,Nordeste,CE,Mouse,Acessórios,11,827.05,Não
+2025-09-25,Sul,SC,SSD,Hardware,4,1694.85,Sim
+2025-09-14,Nordeste,CE,Mouse,Acessórios,13,1056.05,Não
+2025-12-26,Sudeste,SP,Headset,Acessórios,10,1988.85,Sim
+2025-05-14,Sul,PR,Headset,Acessórios,3,593.08,Sim
+2025-06-01,Sul,RS,Headset,Acessórios,2,403.87,Não
+2025-10-24,Centro-Oeste,GO,Cadeira,Móveis,13,15681.41,Sim
+2025-07-21,Sul,RS,Headset,Acessórios,4,729.27,Não
+2025-10-20,Sudeste,MG,Placa de Vídeo,Hardware,11,28855.7,Sim
+2025-06-27,Sul,SC,Mouse,Acessórios,2,154.81,Sim
+2025-03-06,Sudeste,RJ,SSD,Hardware,4,1634.25,Sim
+2025-10-25,Sudeste,SP,Mesa,Móveis,4,3806.04,Não
+2025-02-07,Sul,RS,Teclado,Acessórios,4,493.97,Sim
+2025-03-27,Sudeste,MG,Headset,Acessórios,10,2044.28,Não
+2025-08-06,Sudeste,RJ,Mesa,Móveis,13,11416.19,Não
+2025-10-15,Sudeste,MG,Headset,Acessórios,13,2484.8,Não
+2025-11-22,Sudeste,MG,Headset,Acessórios,11,2085.69,Sim
+2025-04-03,Sudeste,RJ,Placa de Vídeo,Hardware,3,7309.89,Não
+2025-02-02,Sudeste,MG,Mouse,Acessórios,14,1072.82,Não
+2025-12-23,Nordeste,BA,Notebook,Eletrônicos,8,25713.2,Sim
+2025-03-02,Sudeste,RJ,Mouse,Acessórios,8,595.7,Sim
+2025-03-17,Norte,PA,Mouse,Acessórios,10,855.23,Sim
+2025-04-26,Norte,PA,SSD,Hardware,11,4341.95,Sim
+2025-07-17,Sul,RS,Mesa,Móveis,14,11857.89,Não
+2025-11-13,Sudeste,RJ,Monitor,Eletrônicos,9,8912.96,Sim
+2025-10-12,Sul,PR,Monitor,Eletrônicos,9,7998.61,Sim
+2025-09-18,Centro-Oeste,GO,Cadeira,Móveis,11,13460.16,Sim
+2025-03-16,Nordeste,BA,Notebook,Eletrônicos,4,13262.24,Sim
+2025-05-14,Nordeste,CE,Headset,Acessórios,5,884.43,Sim
+2025-07-05,Sul,PR,Monitor,Eletrônicos,9,8812.45,Não
+2025-03-18,Sul,SC,Notebook,Eletrônicos,1,3267.39,Sim
+2025-04-20,Sudeste,RJ,Placa de Vídeo,Hardware,5,13535.29,Sim
+2025-05-20,Nordeste,PE,Notebook,Eletrônicos,11,37048.41,Não
+2025-02-03,Sudeste,SP,Notebook,Eletrônicos,14,46365.14,Sim
+2025-08-19,Nordeste,BA,Placa de Vídeo,Hardware,8,21086.79,Sim
+2025-09-20,Norte,AM,Monitor,Eletrônicos,6,5538.09,Sim
+2025-01-05,Sudeste,SP,SSD,Hardware,7,3032.8,Não
+2025-07-23,Sul,SC,Notebook,Eletrônicos,10,34339.69,Não
+2025-10-15,Sudeste,SP,Monitor,Eletrônicos,8,7706.43,Sim
+2025-10-13,Nordeste,PE,Notebook,Eletrônicos,1,3284.14,Sim
+2025-10-20,Sudeste,SP,Mesa,Móveis,8,7048.38,Sim
+2025-06-14,Norte,PA,Cadeira,Móveis,6,7182.76,Sim
+2025-10-15,Sudeste,SP,Mouse,Acessórios,10,863.7,Sim
+2025-04-09,Norte,PA,Headset,Acessórios,13,2335.79,Não
+2025-05-26,Nordeste,CE,Notebook,Eletrônicos,14,42666.84,Não
+2025-03-27,Sul,SC,Cadeira,Móveis,9,10415.31,Sim
+2025-06-04,Nordeste,CE,Headset,Acessórios,6,1136.6,Não
+2025-06-20,Nordeste,CE,Cadeira,Móveis,7,8142.18,Não
+2025-04-01,Norte,PA,Mesa,Móveis,3,2477.36,Sim
+2025-10-10,Sudeste,RJ,SSD,Hardware,14,5789.94,Sim
+2025-05-27,Sul,SC,Mouse,Acessórios,12,972.75,Não
+2025-04-05,Sudeste,SP,Notebook,Eletrônicos,12,38923.42,Sim
+2025-02-11,Sul,SC,Headset,Acessórios,5,973.91,Não
+2025-06-06,Sudeste,SP,SSD,Hardware,5,2173.99,Sim
+2025-05-20,Sul,PR,Mouse,Acessórios,12,981.74,Sim
+2025-05-13,Sul,PR,Cadeira,Móveis,8,9627.24,Não
+2025-04-17,Sul,RS,Mouse,Acessórios,10,815.97,Sim
+2025-10-26,Sul,PR,Monitor,Eletrônicos,7,6689.91,Sim
+2025-12-15,Nordeste,PE,Placa de Vídeo,Hardware,7,18509.24,Sim
+2025-07-20,Nordeste,CE,Mesa,Móveis,9,7498.89,Sim
+2025-09-03,Sul,RS,Placa de Vídeo,Hardware,12,30067.6,Sim
+2025-11-06,Sul,SC,SSD,Hardware,5,2109.21,Sim
+2025-12-26,Norte,PA,Headset,Acessórios,12,2416.07,Sim
+2025-08-24,Sudeste,SP,Headset,Acessórios,4,781.77,Sim
+2025-11-18,Sudeste,SP,Headset,Acessórios,6,1065.29,Sim
+2025-11-11,Sudeste,SP,Placa de Vídeo,Hardware,13,34299.02,Não
+2025-10-06,Nordeste,BA,Cadeira,Móveis,14,15383.2,Sim
+2025-06-23,Sudeste,MG,Mouse,Acessórios,13,1078.94,Sim
+2025-02-22,Nordeste,CE,Placa de Vídeo,Hardware,5,13681.08,Sim
+2025-01-07,Nordeste,BA,Cadeira,Móveis,12,14006.35,Sim
+2025-07-16,Sudeste,RJ,Placa de Vídeo,Hardware,14,36932.1,Não
+2025-07-17,Norte,AM,Placa de Vídeo,Hardware,14,35459.96,Sim
+2025-06-13,Nordeste,PE,Notebook,Eletrônicos,1,3172.48,Sim
+2025-08-26,Sudeste,RJ,Teclado,Acessórios,11,1396.9,Não
+2025-08-04,Sudeste,MG,Mesa,Móveis,14,12905.21,Não
+2025-11-07,Sudeste,RJ,SSD,Hardware,11,4634.6,Não
+2025-02-03,Sudeste,SP,Monitor,Eletrônicos,4,3719.89,Não
+2025-04-19,Sudeste,SP,Headset,Acessórios,11,1939.65,Não
+2025-10-18,Norte,PA,Mouse,Acessórios,2,150.86,Sim
+2025-11-27,Sudeste,MG,SSD,Hardware,7,2795.6,Sim
+2025-12-15,Sudeste,MG,Monitor,Eletrônicos,9,8376.79,Sim
+2025-11-05,Nordeste,PE,Cadeira,Móveis,7,8622.06,Sim
+2025-11-13,Sul,PR,Headset,Acessórios,10,1901.57,Sim
+2025-05-03,Norte,PA,Monitor,Eletrônicos,4,3638.78,Sim
+2025-06-19,Nordeste,CE,Mouse,Acessórios,9,674.58,Sim
+2025-04-19,Sul,RS,Teclado,Acessórios,10,1168.95,Não
+2025-08-24,Sudeste,MG,Cadeira,Móveis,9,10872.85,Não
+2025-12-10,Norte,PA,Headset,Acessórios,5,932.27,Sim
+2025-05-09,Nordeste,BA,SSD,Hardware,5,2191.56,Sim
+2025-08-02,Norte,PA,Notebook,Eletrônicos,4,13419.94,Sim
+2025-04-12,Sudeste,SP,SSD,Hardware,7,2756.93,Sim
+2025-03-13,Centro-Oeste,GO,Notebook,Eletrônicos,9,29300.7,Não
+2025-03-21,Sul,SC,Mesa,Móveis,6,5732.25,Não
+2025-01-21,Sudeste,SP,Teclado,Acessórios,6,708.73,Não
+2025-12-04,Sul,PR,Teclado,Acessórios,5,556.89,Não
+2025-06-08,Nordeste,BA,Notebook,Eletrônicos,4,13666.92,Não
+2025-11-14,Sudeste,SP,Mesa,Móveis,10,9446.34,Sim
+2025-09-10,Sul,RS,Monitor,Eletrônicos,12,11440.39,Sim
+2025-03-01,Centro-Oeste,GO,Cadeira,Móveis,5,5798.07,Sim
+2025-03-23,Sudeste,RJ,Mesa,Móveis,13,11036.38,Sim
+2025-10-20,Sul,RS,SSD,Hardware,8,3531.74,Sim
+2025-04-15,Sul,RS,Mesa,Móveis,3,2669.4,Sim
+2025-11-09,Sudeste,RJ,Headset,Acessórios,6,1054.98,Não
+2025-03-23,Norte,PA,Mesa,Móveis,1,916.06,Sim
+2025-09-01,Nordeste,CE,SSD,Hardware,1,450.27,Não
+2025-10-13,Sudeste,SP,Headset,Acessórios,5,1000.03,Não
+2025-04-22,Norte,PA,Monitor,Eletrônicos,7,6412.94,Sim
+2025-04-26,Norte,AM,Placa de Vídeo,Hardware,12,28970.2,Sim
+2025-12-07,Sudeste,RJ,Monitor,Eletrônicos,2,2033.87,Sim
+2025-04-18,Centro-Oeste,GO,Cadeira,Móveis,12,14765.03,Sim
+2025-06-06,Sudeste,SP,Headset,Acessórios,4,763.94,Sim
+2025-06-04,Norte,PA,Monitor,Eletrônicos,2,1943.26,Não
+2025-04-10,Nordeste,BA,Mesa,Móveis,10,8846.74,Sim
+2025-10-24,Nordeste,BA,Monitor,Eletrônicos,11,10315.85,Sim
+2025-10-19,Sudeste,SP,Mesa,Móveis,9,7522.29,Não
+2025-05-14,Norte,AM,Mesa,Móveis,2,1665.16,Sim
+2025-11-08,Sudeste,SP,Notebook,Eletrônicos,2,6126.32,Sim
+2025-03-04,Sudeste,RJ,Monitor,Eletrônicos,6,6007.02,Sim
+2025-01-08,Sudeste,SP,SSD,Hardware,7,2773.4,Sim
+2025-08-05,Nordeste,CE,Mouse,Acessórios,14,1071.02,Sim
+2025-12-06,Sudeste,SP,Monitor,Eletrônicos,5,4786.95,Sim
+2025-01-19,Norte,PA,Placa de Vídeo,Hardware,3,7444.48,Sim
+2025-03-04,Nordeste,BA,Headset,Acessórios,14,2516.66,Sim
+2025-07-02,Sudeste,SP,Notebook,Eletrônicos,3,9697.25,Sim
+2025-10-15,Sudeste,SP,Placa de Vídeo,Hardware,1,2545.13,Sim
+2025-02-08,Sudeste,SP,Notebook,Eletrônicos,6,19587.56,Sim
+2025-06-13,Sul,SC,Mouse,Acessórios,6,511.66,Sim
+2025-10-04,Nordeste,CE,Placa de Vídeo,Hardware,9,22093.32,Sim
+2025-05-06,Sudeste,RJ,Cadeira,Móveis,13,15938.93,Sim
+2025-03-12,Centro-Oeste,GO,Cadeira,Móveis,14,17136.81,Sim
+2025-03-19,Sudeste,SP,Teclado,Acessórios,5,631.59,Não
+2025-06-12,Nordeste,CE,Monitor,Eletrônicos,14,13579.38,Não
+2025-07-15,Norte,PA,Cadeira,Móveis,9,10548.96,Sim
+2025-11-15,Nordeste,CE,Placa de Vídeo,Hardware,1,2657.91,Não
+2025-09-08,Nordeste,BA,Notebook,Eletrônicos,14,46165.47,Sim
+2025-09-08,Centro-Oeste,GO,SSD,Hardware,2,775.02,Sim
+2025-12-12,Sudeste,SP,Teclado,Acessórios,9,1159.16,Não
+2025-06-01,Sudeste,SP,Mouse,Acessórios,12,973.15,Não
+2025-06-19,Sudeste,SP,Monitor,Eletrônicos,4,3971.13,Não
+2025-12-17,Sul,RS,Cadeira,Móveis,4,4509.68,Sim
+2025-04-09,Nordeste,PE,Monitor,Eletrônicos,7,6131.19,Não
+2025-09-11,Sul,SC,Headset,Acessórios,13,2473.85,Sim
+2025-10-09,Centro-Oeste,GO,Mesa,Móveis,4,3564.1,Sim
+2025-02-18,Sudeste,SP,Notebook,Eletrônicos,10,31677.39,Sim
+2025-06-21,Nordeste,PE,Mouse,Acessórios,7,545.64,Não
+2025-03-03,Sudeste,SP,Cadeira,Móveis,2,2207.94,Sim
+2025-03-12,Sudeste,RJ,Monitor,Eletrônicos,10,9541.87,Não
+2025-06-01,Nordeste,BA,Headset,Acessórios,12,2234.5,Sim
+2025-04-13,Norte,PA,Teclado,Acessórios,9,1161.2,Não
+2025-10-07,Sul,SC,Cadeira,Móveis,3,3269.46,Não
+2025-11-10,Sudeste,SP,Placa de Vídeo,Hardware,3,7574.94,Não
+2025-10-13,Sul,SC,SSD,Hardware,6,2436.92,Sim
+2025-04-09,Sudeste,SP,Monitor,Eletrônicos,8,7652.66,Sim
+2025-04-11,Norte,AM,Notebook,Eletrônicos,8,25597.05,Sim
+2025-04-21,Nordeste,BA,Notebook,Eletrônicos,4,13094.38,Sim
+2025-02-22,Sudeste,SP,Cadeira,Móveis,8,9862.4,Sim
+2025-12-01,Sudeste,SP,Monitor,Eletrônicos,5,4586.77,Sim
+2025-06-11,Sudeste,SP,Headset,Acessórios,10,1958.6,Sim
+2025-04-23,Norte,PA,SSD,Hardware,12,4656.99,Sim
+2025-11-15,Sul,RS,SSD,Hardware,10,4040.33,Sim
+2025-06-06,Nordeste,CE,SSD,Hardware,1,417.56,Não
+2025-01-17,Sul,SC,Headset,Acessórios,14,2460.39,Sim
+2025-03-04,Sul,PR,Cadeira,Móveis,1,1171.65,Não
+2025-08-01,Sudeste,SP,Cadeira,Móveis,14,16559.33,Não
+2025-10-18,Norte,PA,Monitor,Eletrônicos,1,987.5,Sim
+2025-03-14,Sudeste,RJ,Mouse,Acessórios,8,641.7,Não
+2025-11-21,Sul,PR,Mouse,Acessórios,2,162.66,Sim
+2025-11-10,Nordeste,BA,Teclado,Acessórios,2,236.01,Não
+2025-11-24,Sul,SC,Mesa,Móveis,10,8246.74,Sim
+2025-04-12,Norte,PA,Mesa,Móveis,11,9163.36,Sim
+2025-01-20,Sudeste,SP,Mouse,Acessórios,2,163.97,Sim
+2025-11-03,Sul,RS,Mesa,Móveis,14,13447.94,Sim
+2025-05-03,Sudeste,MG,Mesa,Móveis,5,4105.25,Não
+2025-08-22,Sul,RS,Cadeira,Móveis,5,5802.98,Sim
+2025-10-23,Sudeste,SP,Headset,Acessórios,5,988.15,Não
+2025-02-26,Sudeste,SP,Mesa,Móveis,7,6555.73,Não
+2025-10-09,Sudeste,RJ,Mesa,Móveis,3,2689.31,Sim
+2025-12-01,Sudeste,RJ,Placa de Vídeo,Hardware,6,15899.31,Sim
+2025-09-27,Sudeste,MG,Monitor,Eletrônicos,3,2939.71,Não
+2025-06-17,Sul,SC,Teclado,Acessórios,1,126.89,Sim
+2025-11-07,Sul,SC,Placa de Vídeo,Hardware,6,14657.23,Sim
+2025-07-21,Sudeste,MG,Mouse,Acessórios,10,854.55,Sim
+2025-10-25,Sudeste,MG,Placa de Vídeo,Hardware,11,26431.06,Não
+2025-10-08,Sudeste,SP,Notebook,Eletrônicos,5,16860.67,Sim
+2025-10-21,Sul,PR,Notebook,Eletrônicos,5,14916.46,Sim
+2025-04-22,Sudeste,RJ,SSD,Hardware,12,4793.75,Sim
+2025-02-14,Sudeste,SP,Teclado,Acessórios,10,1104.75,Sim
+2025-04-18,Sudeste,MG,Mouse,Acessórios,12,951.59,Sim
+2025-07-08,Sul,RS,Teclado,Acessórios,13,1518.66,Não
+2025-07-26,Sudeste,RJ,Teclado,Acessórios,12,1363.04,Não
+2025-08-27,Sul,PR,Placa de Vídeo,Hardware,14,36115.15,Sim
+2025-06-27,Sul,PR,Notebook,Eletrônicos,6,18900.08,Sim
+2025-10-20,Nordeste,BA,Mesa,Móveis,6,5568.69,Sim
+2025-11-02,Sul,SC,Placa de Vídeo,Hardware,5,13817.71,Sim
+2025-04-10,Nordeste,BA,Cadeira,Móveis,4,4712.29,Sim
+2025-10-13,Sudeste,RJ,Teclado,Acessórios,11,1240.68,Não
+2025-09-26,Nordeste,CE,Monitor,Eletrônicos,11,10107.89,Sim
+2025-07-15,Sul,PR,Mesa,Móveis,12,11386.28,Sim
+2025-03-15,Sudeste,MG,Mouse,Acessórios,3,224.21,Sim
+2025-10-04,Sul,SC,Monitor,Eletrônicos,7,6550.89,Sim
+2025-12-22,Sudeste,MG,Teclado,Acessórios,4,513.98,Sim
+2025-09-10,Sul,RS,Placa de Vídeo,Hardware,13,36237.2,Não
+2025-11-03,Nordeste,PE,Headset,Acessórios,4,749.2,Não
+2025-12-27,Norte,AM,Monitor,Eletrônicos,3,2926.33,Não
+2025-05-06,Norte,PA,Mesa,Móveis,8,7070.72,Não
+2025-08-01,Sul,RS,Monitor,Eletrônicos,13,12850.84,Sim
+2025-07-03,Sul,PR,Placa de Vídeo,Hardware,13,31266.79,Não
+2025-12-13,Nordeste,CE,SSD,Hardware,2,792.17,Sim
+2025-02-03,Sudeste,RJ,Placa de Vídeo,Hardware,5,13237.53,Sim
+2025-06-23,Centro-Oeste,GO,Placa de Vídeo,Hardware,3,7466.23,Sim
+2025-11-14,Sul,RS,Headset,Acessórios,5,975.24,Sim
+2025-04-09,Sudeste,SP,Monitor,Eletrônicos,8,7419.09,Sim
+2025-10-01,Sudeste,SP,Teclado,Acessórios,4,509.69,Sim
+2025-05-13,Centro-Oeste,GO,Mouse,Acessórios,1,84.09,Não
+2025-12-05,Sudeste,SP,SSD,Hardware,8,3356.15,Não
+2025-11-27,Sudeste,RJ,Mesa,Móveis,1,928.86,Sim
+2025-05-08,Sudeste,RJ,Cadeira,Móveis,4,4431.56,Sim
+2025-10-13,Sudeste,SP,SSD,Hardware,1,419.61,Não
+2025-05-01,Sudeste,RJ,Cadeira,Móveis,2,2188.67,Sim
+2025-08-04,Nordeste,PE,Teclado,Acessórios,7,888.5,Sim
+2025-09-06,Sudeste,SP,Teclado,Acessórios,12,1514.43,Sim
+2025-10-02,Centro-Oeste,GO,Mouse,Acessórios,11,936.62,Sim
+2025-01-20,Centro-Oeste,GO,Notebook,Eletrônicos,2,6786.54,Sim
+2025-04-26,Sudeste,MG,Mesa,Móveis,1,955.45,Não
+2025-09-27,Sudeste,SP,Cadeira,Móveis,5,5500.07,Não
+2025-08-08,Sul,SC,Mesa,Móveis,10,9514.92,Não
+2025-07-22,Sudeste,SP,Mouse,Acessórios,11,890.03,Sim
+2025-01-14,Sudeste,MG,SSD,Hardware,12,4977.5,Não
+2025-05-02,Norte,PA,Placa de Vídeo,Hardware,5,13125.58,Sim
+2025-11-03,Norte,PA,Cadeira,Móveis,3,3363.12,Sim
+2025-01-15,Nordeste,CE,Teclado,Acessórios,1,115.94,Sim
+2025-06-12,Sudeste,RJ,Notebook,Eletrônicos,3,9202.66,Sim
+2025-12-01,Nordeste,BA,SSD,Hardware,1,391.94,Sim
+2025-01-26,Nordeste,BA,Placa de Vídeo,Hardware,13,33781.42,Sim
+2025-10-20,Sudeste,MG,Mesa,Móveis,4,3780.87,Sim
+2025-04-14,Sul,SC,SSD,Hardware,12,5144.95,Sim
+2025-11-27,Sudeste,SP,SSD,Hardware,8,3371.28,Sim
+2025-10-27,Sudeste,SP,SSD,Hardware,8,3321.61,Sim
+2025-11-27,Sul,PR,Mouse,Acessórios,7,556.81,Não
+2025-03-07,Sudeste,SP,Notebook,Eletrônicos,12,36613.8,Sim
+2025-07-24,Sudeste,SP,Notebook,Eletrônicos,1,3365.34,Sim
+2025-10-14,Centro-Oeste,GO,Monitor,Eletrônicos,2,1808.31,Sim
+2025-04-20,Norte,PA,Teclado,Acessórios,6,744.95,Não
+2025-04-24,Sul,PR,Mesa,Móveis,6,5562.13,Sim
+2025-01-05,Centro-Oeste,GO,Mouse,Acessórios,8,647.67,Não
+2025-12-13,Norte,PA,Notebook,Eletrônicos,11,37244.0,Sim
+2025-09-04,Sudeste,SP,Monitor,Eletrônicos,9,8264.16,Sim
+2025-08-08,Sul,RS,Placa de Vídeo,Hardware,4,11035.01,Sim
+2025-10-12,Sudeste,MG,Placa de Vídeo,Hardware,5,13477.17,Sim
+2025-07-24,Sudeste,SP,Teclado,Acessórios,11,1383.1,Não
+2025-07-24,Nordeste,PE,SSD,Hardware,3,1293.18,Não
+2025-06-11,Sudeste,MG,Mesa,Móveis,8,7514.55,Sim
+2025-09-09,Sul,RS,Placa de Vídeo,Hardware,8,22441.03,Não
+2025-03-15,Sudeste,SP,SSD,Hardware,11,4560.98,Sim
+2025-11-25,Sudeste,SP,Cadeira,Móveis,11,13285.37,Sim
+2025-10-27,Norte,PA,Teclado,Acessórios,7,872.87,Sim
+2025-05-07,Sudeste,SP,Cadeira,Móveis,5,5706.64,Sim
+2025-08-06,Sudeste,RJ,Headset,Acessórios,6,1217.88,Não
+2025-03-20,Sudeste,RJ,Teclado,Acessórios,6,707.84,Sim
+2025-12-09,Sul,RS,Cadeira,Móveis,4,4648.18,Sim
+2025-11-06,Sul,PR,Cadeira,Móveis,9,9697.44,Sim
+2025-12-01,Sul,RS,Cadeira,Móveis,3,3298.63,Sim
+2025-05-11,Sudeste,SP,Teclado,Acessórios,10,1265.41,Sim
+2025-03-11,Sudeste,RJ,Teclado,Acessórios,11,1298.15,Não
+2025-03-16,Centro-Oeste,GO,Notebook,Eletrônicos,14,44040.79,Sim
+2025-02-06,Sul,SC,Cadeira,Móveis,2,2206.52,Sim
+2025-02-20,Sul,SC,Cadeira,Móveis,11,12633.02,Sim
+2025-02-19,Nordeste,BA,Placa de Vídeo,Hardware,2,5454.44,Sim
+2025-12-13,Nordeste,PE,Mouse,Acessórios,5,425.29,Sim
+2025-02-05,Sudeste,SP,Mouse,Acessórios,3,223.49,Não
+2025-02-14,Sudeste,MG,Notebook,Eletrônicos,3,9714.92,Não
+2025-10-19,Sul,PR,Monitor,Eletrônicos,3,2835.08,Sim
+2025-08-11,Sudeste,RJ,Teclado,Acessórios,1,122.19,Não
+2025-10-08,Centro-Oeste,GO,Teclado,Acessórios,12,1427.85,Sim
+2025-08-14,Sul,RS,Teclado,Acessórios,1,118.05,Sim
+2025-11-10,Nordeste,PE,Teclado,Acessórios,6,716.76,Não
+2025-08-11,Centro-Oeste,GO,Mesa,Móveis,10,9016.77,Não
+2025-07-10,Sul,RS,Monitor,Eletrônicos,14,13302.09,Não
+2025-09-09,Norte,PA,Headset,Acessórios,12,2269.84,Sim
+2025-06-20,Sul,PR,Monitor,Eletrônicos,2,1996.62,Sim
+2025-05-13,Centro-Oeste,GO,Headset,Acessórios,14,2764.55,Sim
+2025-06-13,Sudeste,MG,Mesa,Móveis,10,8674.12,Sim
+2025-03-18,Sul,RS,Notebook,Eletrônicos,3,10061.69,Sim
+2025-10-10,Sul,PR,Teclado,Acessórios,7,887.53,Sim
+2025-04-03,Sudeste,SP,Notebook,Eletrônicos,13,39293.64,Sim
+2025-03-24,Sudeste,MG,Placa de Vídeo,Hardware,6,15806.38,Sim
+2025-04-02,Norte,PA,Mesa,Móveis,3,2578.29,Sim
+2025-11-16,Sul,SC,Headset,Acessórios,13,2564.52,Sim
+2025-05-08,Sudeste,SP,Monitor,Eletrônicos,14,12744.14,Sim
+2025-09-06,Sudeste,RJ,Notebook,Eletrônicos,14,46028.62,Sim
+2025-11-02,Sudeste,SP,Mouse,Acessórios,14,1076.12,Sim
+2025-02-25,Sudeste,SP,Mesa,Móveis,13,11590.63,Sim
+2025-10-12,Norte,PA,Cadeira,Móveis,7,8627.86,Sim
+2025-05-10,Sul,RS,SSD,Hardware,3,1236.07,Não
+2025-03-21,Sudeste,RJ,Teclado,Acessórios,9,1144.93,Sim
+2025-09-02,Sul,SC,Headset,Acessórios,4,819.21,Sim
+2025-11-16,Sudeste,SP,Mouse,Acessórios,7,593.59,Sim
+2025-04-14,Sudeste,RJ,Monitor,Eletrônicos,10,8992.12,Não
+2025-08-15,Nordeste,BA,Placa de Vídeo,Hardware,14,38261.69,Não
+2025-04-04,Sul,SC,Monitor,Eletrônicos,5,4394.43,Sim
+2025-08-26,Norte,PA,Mouse,Acessórios,4,314.54,Sim
+2025-08-07,Sul,SC,Mouse,Acessórios,11,932.2,Sim
