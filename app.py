@@ -97,7 +97,7 @@ if pergunta:
             with st.spinner("✍️ Interpretando o resultado..."):
                 insight = explicar_resultado(client, modelo, pergunta, tabela)
 
-            st.markdown(f"### {insight}")
+            st.markdown("### " + insight.replace("$", "\\$"))
             if fig is not None:
                 st.pyplot(fig)
             st.dataframe(tabela, use_container_width=True)
