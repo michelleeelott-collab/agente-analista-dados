@@ -1,4 +1,4 @@
-# Converse com seus Dados — Agente Analista de Dados
+# Converse com seus Dados - Agente Analista de Dados
 
 Um agente de IA que analisa planilhas e responde perguntas em português, com
 texto e gráfico. Você sobe um CSV (ou usa a base de exemplo), pergunta em
@@ -19,12 +19,12 @@ agente responde na hora.
 O agente trabalha em três passos, um padrão clássico de agentes (planejar,
 agir, observar):
 
-1. **Planejar** — o LLM (via Groq) recebe a pergunta e o esquema da tabela e
+1. **Planejar** - o LLM (via Groq) recebe a pergunta e o esquema da tabela e
    devolve um **plano de análise estruturado em JSON** (qual operação, colunas,
    agregação, filtro e tipo de gráfico).
-2. **Executar** — o app roda esse plano com **pandas**, usando apenas operações
+2. **Executar** - o app roda esse plano com **pandas**, usando apenas operações
    pré-definidas e confiáveis.
-3. **Explicar** — o LLM lê o resultado calculado e escreve o **insight em
+3. **Explicar** - o LLM lê o resultado calculado e escreve o **insight em
    linguagem natural**.
 
 > **Decisão de segurança:** o agente nunca executa código gerado pela IA. Em vez
@@ -59,10 +59,10 @@ Dá para hospedar de graça no **Streamlit Community Cloud**:
 
 ## 📂 Arquivos
 
-- `app.py` — interface (Streamlit)
-- `agente.py` — o cérebro do agente (chamadas ao LLM: planejar e explicar)
-- `analise.py` — o motor de análise seguro (executa os planos com pandas)
-- `dados_exemplo.csv` — base de vendas fictícia para testar sem upload
+- `app.py` - interface (Streamlit)
+- `agente.py` - o cérebro do agente (chamadas ao LLM: planejar e explicar)
+- `analise.py` - o motor de análise seguro (executa os planos com pandas)
+- `dados_exemplo.csv` - base de vendas fictícia para testar sem upload
 
 ## 📝 Observação
 
